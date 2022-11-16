@@ -53,6 +53,7 @@ char **strtow(char *str, char *d)
  * @str: the input string
  * @d: the delimeter
  * Return: a pointer to an array of strings, or NULL on failure
+ * this returns a pointer
  */
 char **strtow2(char *str, char d)
 {
